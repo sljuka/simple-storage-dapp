@@ -1,9 +1,11 @@
 # Favourite number dapp
 
-This is a tutorial project for learning how to build a dapp with [Ethereum](https://ethereum.org/en/) and [Next.js](https://nextjs.org/).
-It is continuation of [smart contracts tutorial](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-9-hardhat-smart-contract-lottery) by Patrick Collins
-Instead of using react-moralis and other web3 tools. This one is using Wagmi which seems like a better [alternative](https://wagmi.sh/react/comparison).
-It covers:
+This is a tutorial project for learning how to build dapps with [Ethereum](https://ethereum.org/en/) and [Next.js](https://nextjs.org/).
+It is continuation to [smart contracts tutorial](https://github.com/smartcontractkit/full-blockchain-solidity-course-js#lesson-9-hardhat-smart-contract-lottery) by Patrick Collins.
+
+Instead of using react-moralis and other web3 tools. This one is using [Wagmi](https://wagmi.sh/) which seems like a better [alternative](https://wagmi.sh/react/comparison).
+
+Tutorial covers:
 
 - connecting to injected metamask wallet
 - connecting to local hardhat network via metamask
